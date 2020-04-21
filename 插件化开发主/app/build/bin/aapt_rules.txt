@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:22
+-keep class com.mymain.MainActivity { <init>(...); }
+
+# onClick res/layout/main.xml #generated:16
+-keepclassmembers class * { *** load(...); }
+
